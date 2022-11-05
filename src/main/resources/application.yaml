@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          default-label: main
-          uri: https://github.com/AngelVilchesU/TINGESO_EVAL2_CONFIG-SERVER
+          default-label: master
+          uri: https://github.com/AngelVilchesU/TINGESO_EVAL2_CONFIG-DATA
           search-paths: config-data
   application:
     name: config-service
